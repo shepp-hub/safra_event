@@ -1,24 +1,33 @@
-- title: Name
-  name: Name-1
-  subtitle: Position
+- title: Prof Noam Shomron
+  name: NShomron
+  subtitle: Chair, TAU
+  img: noam_shomron.jpg
+  thumbnail: noam_shomron_thumbnail.jpg
+  alt: Picture of Noam Shomron
+  topic: Topic
+  description: More Info
+
+- title: Prof Rina Shainski
+  name: RShainski
+  subtitle: Duality Technologies
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
 
-- title: Name
-  name: Name-2
-  subtitle: Position
+- title: Prof Ron Shamir
+  name: RShamir
+  subtitle: TAU
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
   topic: Topic
   description: More Info
 
-- title: Name
-  name: Name-3
-  subtitle: Position
+- title: Iddo Weiner
+  name: IWeiner
+  subtitle: TAU
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
