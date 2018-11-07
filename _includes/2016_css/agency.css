@@ -22,7 +22,7 @@ a:hover{
 }
 
 .bigly {
-    font-size:32px;
+    font-size:28px;
 }
 
 body {
@@ -168,13 +168,13 @@ fieldset[disabled] .btn-primary.active {
 
 .btn-xl {
     padding: 20px 40px;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 700;
 }
 
 .btn-sm {
     padding: 10px 20px;
-    font-size: 14px;
+    font-size: 12px;
     font-weight: 700;
 }
 
@@ -364,7 +364,7 @@ header .intro-text {
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: {{ site.data.template.font.secondary }};
-    font-size: 22px;
+    font-size: 20px;
     font-style: italic;
     line-height: 22px;
 }
@@ -373,7 +373,7 @@ header .intro-text .intro-heading {
     margin-bottom: 25px;
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
-    font-size: 40px;
+    font-size: 32px;
     font-weight: 700;
     line-height: 40px;
 }
@@ -387,7 +387,7 @@ header .intro-text .intro-heading {
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
         font-family: {{ site.data.template.font.secondary }};
-        font-size: 40px;
+        font-size: 32px;
         font-style: italic;
         line-height: 40px;
     }
@@ -396,7 +396,7 @@ header .intro-text .intro-heading {
         margin-bottom: 50px;
         text-transform: uppercase;
         font-family: {{ site.data.template.font.primary }};
-        font-size: 75px;
+        font-size: 50px;
         font-weight: 700;
         line-height: 75px;
     }
@@ -410,7 +410,7 @@ aside.clients h2,
 section h2.section-heading {
     margin-top: 0;
     margin-bottom: 15px;
-    font-size: 40px;
+    font-size: 32px;
 }
 
 section h3.section-subheading {
@@ -424,7 +424,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 30px 0;
     }
 }
 

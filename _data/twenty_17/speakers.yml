@@ -1,6 +1,7 @@
 - title: Prof Noam Shomron
   name: NShomron
   subtitle: Chair, TAU
+  url: http://tau.ac.il/~nshomron
   img: noam_shomron.jpg
   thumbnail: noam_shomron_thumbnail.jpg
   alt: Picture of Noam Shomron
@@ -10,6 +11,7 @@
 - title: Prof Rina Shainski
   name: RShainski
   subtitle: Duality Technologies
+  url: https://linkedin.com/in/rinasha
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
@@ -19,6 +21,7 @@
 - title: Prof Ron Shamir
   name: RShamir
   subtitle: TAU
+  url: https://www.cs.tau.ac.il/~rshamir
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
@@ -28,6 +31,27 @@
 - title: Iddo Weiner
   name: IWeiner
   subtitle: TAU
+  url: https://linkedin.com/in/iddo-weiner-b57594131
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Dr Daphna Laifenfeld
+  name: DLaifenfled
+  subtitle: IBEX
+  url: https://linkedin.com/in/daphna-laifenfeld-959bb91
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
+- title: Gilit Zohar-Oren
+  name: GZOren
+  subtitle: Assistance, TAU
+  url: safrabio@post.tau.ac.il
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
