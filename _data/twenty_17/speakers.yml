@@ -8,6 +8,16 @@
   topic: Topic
   description: More Info
 
+- title: Dr Daphna Laifenfeld
+  name: DLaifenfled
+  subtitle: IBEX
+  url: https://linkedin.com/in/daphna-laifenfeld-959bb91
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+
 - title: Prof Rina Shainski
   name: RShainski
   subtitle: Duality Technologies
@@ -32,16 +42,6 @@
   name: IWeiner
   subtitle: TAU
   url: https://linkedin.com/in/iddo-weiner-b57594131
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
-
-- title: Dr Daphna Laifenfeld
-  name: DLaifenfled
-  subtitle: IBEX
-  url: https://linkedin.com/in/daphna-laifenfeld-959bb91
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
