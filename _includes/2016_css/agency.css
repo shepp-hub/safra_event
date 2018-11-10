@@ -387,18 +387,18 @@ header .intro-text .intro-heading {
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
         font-family: {{ site.data.template.font.secondary }};
-        font-size: 32px;
+        font-size: 30px;
         font-style: italic;
-        line-height: 40px;
+        line-height: 30px;
     }
 
     header .intro-text .intro-heading {
         margin-bottom: 50px;
         text-transform: uppercase;
         font-family: {{ site.data.template.font.primary }};
-        font-size: 50px;
-        font-weight: 700;
-        line-height: 75px;
+        font-size: 40px;
+        font-weight: 500;
+        line-height: 50px;
     }
 }
 
